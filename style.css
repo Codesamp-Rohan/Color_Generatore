@@ -158,3 +158,10 @@ button{
         right: 100%;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .container{
+        width: 40vh;
+        height: 40vh;
+    }
+}
